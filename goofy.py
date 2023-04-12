@@ -1,1 +1,1 @@
-print("Ventus!!!")
+print("Ventus!")
